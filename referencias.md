@@ -1,1 +1,8 @@
-
+[Presentación](https://www.ellenmacarthurfoundation.org/es/temas/presentacion-economia-circular/vision-general)  
+[Introducción](https://www.fundacionico.es/documents/137403/0/EC_pymes_Guia_Final_ParteI.pdf/a9f93f0d-9f75-e69c-7e0a-da6bc23e0be1?t=1645449328002)  
+[Economía Circular](https://www.europarl.europa.eu/topics/es/article/20151201STO05603/economia-circular-definicion-importancia-y-beneficios)  
+[Desarrollo Sostenible](https://www.enelgreenpower.com/es/learning-hub/desarrollo-sostenible/economia-circular)  
+[Modelos Producción](https://www.tehagoeco.com/nuevos-modelos-de-produccion-y-consumo-nuevas-empresas-y-ods-12/)  
+[Consumo](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/)  
+[Economía Verde](https://corporate.enelx.com/es/question-and-answers/what-is-green-economy)
+[Economía](https://ayudaenaccion.org/blog/sostenibilidad/economia-verde/)  
