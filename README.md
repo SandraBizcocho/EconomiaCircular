@@ -1,9 +1,7 @@
 # ÍNDICE
 
+[indice](/img/indice.png)
 
-<p align="center">
-  <img src="/img/indice.png" alt="![indice](/img/indice.png)" /> 
-</p>  
 
 [1.1.Introducción](1.1.introduccion.md)  
 [1.2.Concepto de economía circular](1.2.concepto_economía_circular.md)  
