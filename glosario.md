@@ -1,6 +1,6 @@
 # GLOSARIO 📖
 
-# 🌍 CO2: 
+##🌍 CO2: ##
 La economía circular ♻️ es un modelo ingenioso que busca compartir, alquilar, reutilizar, reparar, renovar y reciclar materiales todas las veces que sea posible para aprovecharlos al máximo 🔄. Así, los productos tienen una vida extra larga 🛠️✨ y se genera valor sin tanto desperdicio.
 
 # ⏬ DECRECIMIENTO: 
