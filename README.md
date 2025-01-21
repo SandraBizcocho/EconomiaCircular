@@ -1,9 +1,5 @@
 # ÍNDICE
 
-
-![indice](/img/indice.png)
-
-
 [1.1.Introducción](1.1.introduccion.md)  
 [1.2.Concepto de economía circular](1.2.concepto_economía_circular.md)  
 [1.3.Modelos de producción actuales y consumismo](1.3.modelos_produccion.md)    
