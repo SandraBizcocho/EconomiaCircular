@@ -1,3 +1,3 @@
-# Autores
+# AUTORES
 
-Adrián Batres Mármol Y SANDRA BIZCOCHO CORDERO
+Adrián Batres Mármol Y Sandra Bizcocho Cordero
