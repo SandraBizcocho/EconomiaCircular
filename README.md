@@ -1,6 +1,7 @@
 # ÍNDICE
 
-[indice](/img/indice.png)
+
+![indice](/img/indice.png)
 
 
 [1.1.Introducción](1.1.introduccion.md)  
