@@ -1,15 +1,20 @@
 # GLOSARIO 📖
 
+
+<p align="center">
+  <img src="/img/glosario.gif" alt="![glosario](/img/glosario.gif)" /> 
+</p>  
+
 **🌍 CO2:**  
-La economía circular ♻️ es un modelo ingenioso que busca compartir, alquilar, reutilizar, reparar, renovar y reciclar materiales todas las veces que sea posible para aprovecharlos al máximo 🔄. Así, los productos tienen una vida extra larga 🛠️✨ y se genera valor sin tanto desperdicio.
+En la economía circular, el CO2 (dióxido de carbono) es el "villano" 🌫️ que queremos mantener bajo control. La idea es producir menos emisiones usando recursos de forma inteligente, energías renovables ⚡ y procesos más verdes 🌱. Además, se busca reaprovechar el CO2 para convertirlo en cosas útiles, como materiales o energía, en lugar de dejar que siga calentando el planeta 🌡️.
 
 
 **⏬ DECRECIMIENTO:**  
-El decrecimiento económico propone reducir el consumo 🛑📉 y la producción de bienes para proteger el planeta 🌎. Busca evitar los daños ambientales y sociales que provoca el crecimiento descontrolado 🚫🌱.
+El decrecimiento económico propone reducir el consumo 📉 y la producción de bienes para proteger el planeta 🌎. Busca evitar los daños ambientales y sociales que provoca el crecimiento descontrolado 🚫🌱.
 
 
 **💧 EUTROFIZACIÓN:**  
-La eutrofización no solo afecta a los ecosistemas 🐟, también tiene consecuencias en la economía 💸 y en la salud de las personas 🏥. Los costos incluyen limpiar el agua 🚱, recuperar peces y vida silvestre, y enfrentar pérdidas económicas relacionadas con estos impactos.
+La eutrofización no solo afecta a los ecosistemas 🐟, también tiene consecuencias en la economía 💸 y en la salud de las personas 🏥. Los costos incluyen limpiar el agua 🚱, recuperar peces y vida silvestre y enfrentar pérdidas económicas relacionadas con estos impactos.
 
 
 **📘 ORGANIZACIÓN INTERNACIONAL DE NORMALIZACIÓN (ISO):**  
@@ -17,7 +22,7 @@ La norma ISO 59004 🌐 es una guía clave para la economía circular. Define co
 
 
 **📊 PRODUCTO INTERIOR BRUTO (PIB)**  
-El PIB es el valor 💰 de todo lo que un país produce y vende en un tiempo específico 🕒. Es una manera de medir cómo va la economía 🚀.
+El Producto Interior Bruto es el valor 💰 de todo lo que un país produce y vende en un tiempo específico 🕒. Es una manera de medir cómo va la economía 🚀.
 
 
 **⚙️ REVOLUCIÓN INDUSTRIAL:**  
@@ -25,8 +30,8 @@ La Revolución Industrial fue un gran cambio 💥 en el siglo XVIII, donde dejam
 
 
 **📈 MARKETING:**  
-El marketing circular 🌍 adapta las 4P’s del marketing tradicional (Producto, Precio, Lugar y Promoción) pero con un enfoque ecológico ♻️. Todo se trata de hacer sostenible lo que producimos, vendemos y promovemos 🌱💡.
+El marketing circular 🌍 adapta las 4P’s del marketing tradicional (Producto, Precio, Lugar y Promoción) pero con un enfoque ecológico ♻️. Todo se trata de hacer sostenible 🌱 lo que producimos, vendemos y promovemos.
 
 
-**🌿 SALUD ECOLÓGICA:**  
+**✚🌿 SALUD ECOLÓGICA:**  
 La salud y el medio ambiente están súper conectados 🌐. Los seres vivos se adaptan continuamente a su entorno 🌱, pero si dañamos ese equilibrio, nuestra salud también se ve afectada 😷. Es como una balanza que hay que cuidar entre nosotros y la naturaleza 🌳💚.
