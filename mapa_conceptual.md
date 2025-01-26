@@ -1,1 +1,2 @@
 
+![mapa](img/mapaconceptual.jpeg)
