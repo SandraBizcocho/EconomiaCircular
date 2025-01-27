@@ -4,5 +4,7 @@
 [Desarrollo Sostenible](https://www.enelgreenpower.com/es/learning-hub/desarrollo-sostenible/economia-circular)  
 [Modelos Producción](https://www.tehagoeco.com/nuevos-modelos-de-produccion-y-consumo-nuevas-empresas-y-ods-12/)  
 [Consumo](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/)  
-[Economía Verde](https://corporate.enelx.com/es/question-and-answers/what-is-green-economy)
+[Economía Verde](https://corporate.enelx.com/es/question-and-answers/what-is-green-economy)  
 [Economía](https://ayudaenaccion.org/blog/sostenibilidad/economia-verde/)  
+[Ciclo de vida](https://mailchimp.com/es/resources/product-life-cycle/)  
+[Ecodiseño](https://www.camara.es/innovacion-y-competitividad/como-innovar/diseno-sostenible)
