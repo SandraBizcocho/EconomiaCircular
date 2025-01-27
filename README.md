@@ -11,11 +11,3 @@
 [Glosario](glosario.md)  
 [Referencias](referencias.md)  
 [Autores](autores.md)  
-
-
-
-4.- La huella ecológica.
-
-5.- El ciclo de vida de un producto.
-
-8.- El ecodiseño.
